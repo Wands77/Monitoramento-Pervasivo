@@ -1,12 +1,10 @@
 import socket
 from datetime import datetime
 
-# Configurações do servidor
 HOST = '0.0.0.0'  
 PORT = 65432
 
 def start_server():
-    # Cria o socket TCP
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         try:
             s.bind((HOST, PORT))
