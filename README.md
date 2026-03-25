@@ -50,5 +50,3 @@ https://drive.google.com/drive/folders/1SO21AFJW-aDdggzag-V3kUeNr7UJtoVI?usp=sha
 
 # Print da janela do servidor ao receber os logs do app
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/c8484ce1-f51a-421f-b0ce-7426e44decd5" />
-<img width="1221" height="200" alt="image" src="https://github.com/user-attachments/assets/c8484ce1-f51a-421f-b0ce-7426e44decd5" />
-
