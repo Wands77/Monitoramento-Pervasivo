@@ -49,4 +49,6 @@ https://drive.google.com/drive/folders/1SO21AFJW-aDdggzag-V3kUeNr7UJtoVI?usp=sha
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/1fee65b3-e11b-4b50-bcc5-77b0a67619d3" />
 
 # Print da janela do servidor ao receber os logs do app
-<img width="800" height="243" alt="image" src="https://github.com/user-attachments/assets/e63b6445-c840-4d40-9c98-ea3f47043b74" />
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/c8484ce1-f51a-421f-b0ce-7426e44decd5" />
+<img width="1221" height="200" alt="image" src="https://github.com/user-attachments/assets/c8484ce1-f51a-421f-b0ce-7426e44decd5" />
+
