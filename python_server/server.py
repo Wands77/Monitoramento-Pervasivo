@@ -2,7 +2,7 @@ import socket
 from datetime import datetime
 
 # Configurações do servidor
-HOST = '0.0.0.0'  # Escuta em todas as interfaces de rede do PC
+HOST = '0.0.0.0'  
 PORT = 65432
 
 def start_server():
@@ -22,16 +22,15 @@ def start_server():
                     data = conn.recv(1024).decode('utf-8')
                     
                     if data:
-                        # Gera o timestamp atual
                         timestamp = datetime.now().strftime('%d/%m/%Y %H:%M:%S')
                         
                         # Formata a mensagem para exibição e log
                         log_entry = f"[{timestamp}] Recebido de {addr}: {data}"
                         
-                        # Requisito 2: Exibir no console
+                        # Exibe no console
                         print(log_entry)
                         
-                        # Requisito 2: Salvar em arquivo .txt (Log)
+                        # Salva em arquivo .txt (Log)
                         with open("log_sensores.txt", "a") as f:
                             f.write(log_entry + "\n")
         
