@@ -37,16 +37,16 @@ https://drive.google.com/drive/folders/1SO21AFJW-aDdggzag-V3kUeNr7UJtoVI?usp=sha
 
 ## Prints da tela de funcionamento do Aplicativo e janela do servidor ao receber os logs
 # Tela do Aplicativo (sem executar os comandos)
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/7e75d398-9ae2-4fc3-af7a-91953fe2f5b2" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/7e75d398-9ae2-4fc3-af7a-91953fe2f5b2" />
 
 # Tela de erro ao nao conceder permissão de localização 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/013911bb-1cf9-4887-a95a-1e1d4fbe3c0a" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/013911bb-1cf9-4887-a95a-1e1d4fbe3c0a" />
 
 # Tela de erro ao não estar executando a comunicação naquele IP 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/cbed144d-320c-49fd-a1ef-c1aeabf9dbc2" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/cbed144d-320c-49fd-a1ef-c1aeabf9dbc2" />
 
 # Tela com o envio dos dados 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/bcbdd5c7-f501-49c9-ae60-12b202987610" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/bcbdd5c7-f501-49c9-ae60-12b202987610" />
 
 # Print da janela do servidor ao receber os logs do app
-<img width="1245" height="243" alt="image" src="https://github.com/user-attachments/assets/e63b6445-c840-4d40-9c98-ea3f47043b74" />
+<img width="800" height="243" alt="image" src="https://github.com/user-attachments/assets/e63b6445-c840-4d40-9c98-ea3f47043b74" />
