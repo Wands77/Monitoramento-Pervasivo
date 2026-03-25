@@ -42,8 +42,11 @@ https://drive.google.com/drive/folders/1SO21AFJW-aDdggzag-V3kUeNr7UJtoVI?usp=sha
 ### Tela de erro ao nao conceder permissão de localização 
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/013911bb-1cf9-4887-a95a-1e1d4fbe3c0a" />
 
-### Tela de erro ao não estar executando a comunicação naquele IP 
+### Tela de erro quando o computador não responde (o servidor não esta executando)
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/cbed144d-320c-49fd-a1ef-c1aeabf9dbc2" />
+
+### Tela de erro de ponto cego, o app não conseguiu encontrar o caminho até o endereço informado 
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/78a916f8-e4c1-490f-8a80-52860e6afa25" />
 
 ### Tela com o envio dos dados 
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/1fee65b3-e11b-4b50-bcc5-77b0a67619d3" />
