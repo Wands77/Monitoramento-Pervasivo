@@ -36,17 +36,17 @@ https://drive.google.com/drive/folders/1SO21AFJW-aDdggzag-V3kUeNr7UJtoVI?usp=sha
 4. **Envie os Dados:** Clique no botão de envio. O log aparecerá instantaneamente no terminal do PC e será salvo no arquivo de texto.
 
 ## Prints da tela de funcionamento do Aplicativo e janela do servidor ao receber os logs
-# Tela do Aplicativo (sem executar os comandos)
+### Tela do Aplicativo (sem executar os comandos)
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/7e75d398-9ae2-4fc3-af7a-91953fe2f5b2" />
 
-# Tela de erro ao nao conceder permissão de localização 
+### Tela de erro ao nao conceder permissão de localização 
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/013911bb-1cf9-4887-a95a-1e1d4fbe3c0a" />
 
-# Tela de erro ao não estar executando a comunicação naquele IP 
+### Tela de erro ao não estar executando a comunicação naquele IP 
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/cbed144d-320c-49fd-a1ef-c1aeabf9dbc2" />
 
-# Tela com o envio dos dados 
+### Tela com o envio dos dados 
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/1fee65b3-e11b-4b50-bcc5-77b0a67619d3" />
 
-# Print da janela do servidor ao receber os logs do app
+### Print da janela do servidor ao receber os logs do app
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/c8484ce1-f51a-421f-b0ce-7426e44decd5" />
