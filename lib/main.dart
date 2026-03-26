@@ -24,7 +24,7 @@ class _MonitorPervasivoState extends State<MonitorPervasivo> {
       // Coleta Bateria
       int nivel = await Battery().batteryLevel;
       
-      // Coleta GPS (Simplificado)
+      // Coleta GPS 
       Position pos = await Geolocator.getCurrentPosition();
 
       String mensagem = "Bateria: $nivel% | Lat: ${pos.latitude} | Lon: ${pos.longitude}";
